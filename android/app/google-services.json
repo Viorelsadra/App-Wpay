@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535007764552",
+    "project_id": "app-perbankkan",
+    "storage_bucket": "app-perbankkan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535007764552:android:ec0df0e261448c8629387d",
+        "android_client_info": {
+          "package_name": "com.example.app_perbankkan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjffy9C5VwNMEhjLfIqH5C4IIF6qq3KBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
